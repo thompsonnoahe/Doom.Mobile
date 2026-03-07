@@ -35,9 +35,6 @@
     <AndroidEnableSGenConcurrent>True</AndroidEnableSGenConcurrent>
     <AndroidLargeHeap>true</AndroidLargeHeap>
     <JavaMaximumHeapSize>1G</JavaMaximumHeapSize>
-	<EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
-	<RunAOTCompilation>False</RunAOTCompilation>
-	<PublishTrimmed>False</PublishTrimmed>
     
     <!--To use Parallel on iOS real device-->
     <MtouchExtraArgs>--interpreter</MtouchExtraArgs>
